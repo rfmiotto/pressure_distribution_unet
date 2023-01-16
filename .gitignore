@@ -1,0 +1,13 @@
+.vscode/
+__pycache__/
+datasets/
+tensorboard_runs/
+my_logs/
+*.csv
+.ipynb_checkpoints/
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.tar
